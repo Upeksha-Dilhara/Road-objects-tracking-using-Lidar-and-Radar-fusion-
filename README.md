@@ -14,8 +14,8 @@ The system uses the following components:
 - **State Variables**:
   - Position: \( P_x, P_y \)
   - Velocity: \( v \)
-  - Yaw Angle: \( \psi \)
-  - Yaw Rate: \( \dot{\psi} \)
+  - Yaw Angle: φ
+  - Yaw Rate: \( \dot{φ} \)
 - **Motion Model**: Predicts the object's next state based on the current state and motion dynamics.
 - **Measurement Model**: Processes Lidar and Radar measurements for state updates.
 
