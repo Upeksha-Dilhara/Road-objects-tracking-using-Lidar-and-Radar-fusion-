@@ -43,13 +43,6 @@ The system uses the following components:
 
 ### Performance Metrics
 RMSE values for state variables after tuning:
-| Variable   | RMSE    |
-|------------|---------|
-| \( P_x \) | 0.1162  |
-| \( P_y \) | 0.0986  |
-| \( v \)    | 0.5068  |
-| \( \psi \) | 0.9084  |
-| \( \dot{\psi} \) | 0.5206 |
 ![image](https://github.com/user-attachments/assets/a381b8f3-437e-4f35-a93d-e72846456196)
 
 
